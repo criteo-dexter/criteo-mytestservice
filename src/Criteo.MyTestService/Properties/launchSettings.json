@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Criteo.MyTestService.netcore": {
+      "commandName": "Project",
+      "launchBrowser": true
+    }
+  }
+}

@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "Criteo.MyTestService"
+  description: "This is my test service"
+  annotations:
+    github.com/project-slug: "criteo-dexter/criteo-mytestservice"
+    backstage.io/techdocs-ref: github:https://github.com/criteo-dexter/criteo-mytestservice
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "canut"

@@ -1,0 +1,10 @@
+site_name: "Criteo.MyTestService"
+site_description: "This is my test service"
+
+nav:
+  - Introduction: index.md
+
+repo_url: https://github.com/criteo-dexter/criteo-mytestservice
+
+plugins:
+  - techdocs-core
